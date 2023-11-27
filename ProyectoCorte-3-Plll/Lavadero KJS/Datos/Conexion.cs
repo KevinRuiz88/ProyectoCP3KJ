@@ -15,7 +15,7 @@ namespace Datos
             string server = "localhost";
             string database = "lavadero";
             string user = "root";
-            string pwd = "steven123";
+            string pwd = "";
 
             string cadenaConexion = "server=" + server + ";database=" + database + ";Uid=" + user + ";pwd=" + pwd;
             mySqlConnection = new MySqlConnection(cadenaConexion);
