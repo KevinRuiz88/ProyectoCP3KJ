@@ -44,7 +44,7 @@ namespace Logica
 
         public Empleado ObtenerEmpleadoPorId(int id)
         {
-            // Iterar sobre la lista de servicios y buscar el servicio con la placa especificada
+            
             foreach (Empleado empleado in _datosEmpleados.ObtenerEmpleados())
             {
                 if (empleado.Id == id)
@@ -52,7 +52,7 @@ namespace Logica
                     return empleado;
                 }
             }
-            // Si no se encuentra ningún servicio con la placa especificada, retornar null o lanzar una excepción
+            
             return null;
         }
         public void ActualizarEmpleado(Empleado empleado)

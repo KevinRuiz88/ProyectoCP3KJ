@@ -22,9 +22,9 @@ C:\Users\steven\Documents\Steven\ProyectoLavadero\Lavadero KJS\Entidades\obj\Deb
 C:\Users\steven\Documents\Steven\ProyectoLavadero\Lavadero KJS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\steven\Documents\Steven\ProyectoLavadero\Lavadero KJS\Entidades\obj\Debug\Entidades.dll
 C:\Users\steven\Documents\Steven\ProyectoLavadero\Lavadero KJS\Entidades\obj\Debug\Entidades.pdb
-C:\Users\HP\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\bin\Debug\Entidades.dll
-C:\Users\HP\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\bin\Debug\Entidades.pdb
-C:\Users\HP\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
-C:\Users\HP\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\HP\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\obj\Debug\Entidades.dll
-C:\Users\HP\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\obj\Debug\Entidades.pdb
+C:\Users\JHONATAN\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\bin\Debug\Entidades.dll
+C:\Users\JHONATAN\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JHONATAN\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\JHONATAN\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JHONATAN\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\obj\Debug\Entidades.dll
+C:\Users\JHONATAN\Desktop\ProyectoLavadero-master\Lavadero KJS\Entidades\obj\Debug\Entidades.pdb
